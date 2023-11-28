@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1624540352 source:d:\uthm\degree\sem 1\algoritma\project\project q7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+
